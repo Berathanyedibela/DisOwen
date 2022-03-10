@@ -1,4 +1,4 @@
-FROM ber4tbey/whatsowen:latest
+FROM ber4tbey/disowen:latest
 
 RUN git clone https://github.com/Berathanyedibela/disowen /root/DisOwen/
 WORKDIR /root/DisOwen/
